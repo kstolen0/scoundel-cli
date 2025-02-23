@@ -51,6 +51,7 @@ Repeat turn until only one card left in the room, then draw three more from the 
 
 If weapon is not equiiped or weapon durability is too low:
   * deduct health equal to monster card value
+
 If weapon is equipped and durability not too low
   * either:
     * fight monster with barehands (take full damage)
