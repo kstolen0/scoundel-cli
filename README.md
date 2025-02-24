@@ -1,4 +1,4 @@
-# scoundel-cli
+# scoundrel-cli
 
 ## How to play
 
